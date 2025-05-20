@@ -77,7 +77,7 @@ Each visual tells a story, every tooltip adds a beat, and the layout flows like 
 ---
 
 ### 👩‍💻 Created by:
-SmitsHub – aspiring HR Data Analyst making HR dashboards legendary
+Smitha Madhu – HR Analyst making HR dashboards legendary
 
 ---
 
